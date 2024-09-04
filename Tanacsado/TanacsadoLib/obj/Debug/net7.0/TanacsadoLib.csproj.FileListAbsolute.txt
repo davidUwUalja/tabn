@@ -1,0 +1,11 @@
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\bin\Debug\net7.0\TanacsadoLib.deps.json
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\bin\Debug\net7.0\TanacsadoLib.dll
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\bin\Debug\net7.0\TanacsadoLib.pdb
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.AssemblyInfoInputs.cache
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.AssemblyInfo.cs
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.csproj.CoreCompileInputs.cache
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.dll
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\refint\TanacsadoLib.dll
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\TanacsadoLib.pdb
+C:\Users\david\hazi\programozas\13\Tanacsado\TanacsadoLib\obj\Debug\net7.0\ref\TanacsadoLib.dll

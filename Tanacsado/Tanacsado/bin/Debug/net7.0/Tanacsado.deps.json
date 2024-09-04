@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tanacsado/1.0.0": {
+        "dependencies": {
+          "TanacsadoLib": "1.0.0"
+        },
+        "runtime": {
+          "Tanacsado.dll": {}
+        }
+      },
+      "TanacsadoLib/1.0.0": {
+        "runtime": {
+          "TanacsadoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tanacsado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TanacsadoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
